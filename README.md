@@ -6,7 +6,7 @@
   </a>
 
   <br />
-  国科大通用课程大作业模板
+  国科大网安专业的数据结构研讨课作业模板
 
 </h1>
 
@@ -16,12 +16,12 @@
 
 
 ## 介绍
-- 用于国科大(UCAS)课程大作业/结课汇报的通用简易Latex模板
+- 用于国科大(UCAS)本科生网安专业的数据结构研讨课简易Latex模板
 
 ## 模板下载
 
 * 页面右边点击：**Clone or download -> Download Zip**
-* 已经上传至Overleaf模板，开箱即用 ☞ [Overleaf](https://www.overleaf.com/latex/templates/zhong-guo-ke-xue-yuan-da-xue-ke-cheng-lun-wen-mo-ban/nphpxhhqvnds)
+
 
 ## 使用方法
 默认模板文件由以下四部分组成：
