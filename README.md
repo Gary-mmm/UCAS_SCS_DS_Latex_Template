@@ -1,5 +1,5 @@
 
-
+<!-- 
 <h1 align="center">
   <a href="https://github.com/jweihe/UCAS_Latex_Template">
     <img alt="UCAS_Latex_Template" src="https://github.com/jweihe/UCAS_Latex_Template/blob/main/figures/ucas_logo.png"  />
@@ -12,7 +12,7 @@
 
 <p align="center">
   Latex Template for UCAS Report
-</p>
+</p> -->
 
 
 ## 介绍
@@ -32,7 +32,7 @@
 - `figures` 放置图片的文件夹,包含院校LOGO和效果预览图
 
 使用时需前往`UCASReport.sty` 对标题、副标题、姓名、学号、院所、页眉等进行设置，然后编辑`main.tex`进行正文编写
-
+<!-- 
 --------- 
  **强烈推荐使用[Overleaf](https://www.overleaf.com/latex/templates/zhong-guo-ke-xue-yuan-da-xue-ke-cheng-lun-wen-mo-ban/nphpxhhqvnds)**   模板已上传，打开即用
 
@@ -47,4 +47,4 @@
 + [GBT7714-2015标准下的BibTex样式](https://github.com/zepinglee/gbt7714-bibtex-style)
 + [国科大学位论文LaTeX模板](https://github.com/mohuangrui/ucasthesis)
 + [北京大学课程论文模板](https://www.overleaf.com/latex/templates/bei-jing-da-xue-ke-cheng-lun-wen-mo-ban/yntmqcktrzfh)
-
+ -->
